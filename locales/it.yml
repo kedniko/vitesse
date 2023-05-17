@@ -9,5 +9,6 @@ intro:
   desc: Modello per una Applicazione Vite
   dynamic-route: Demo di rotta dinamica
   hi: Ciao, {name}!
+  aka: Conosciuto anche come
   whats-your-name: Come ti chiami?
 not-found: Non trovato
